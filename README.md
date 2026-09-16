@@ -5,7 +5,9 @@ green, cyan, blue, and magenta once per second.
 
 ## Demo
 
-<video controls src="rgb-led-video.mp4" title="Watch the demo video"></video>
+Demo Video:
+https://github.com/user-attachments/assets/9de84394-33b8-46bb-b9ba-bd22d6ba9d62
+
 
 ## Build and Program
 
